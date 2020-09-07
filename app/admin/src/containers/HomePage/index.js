@@ -79,7 +79,7 @@ const HomePage = () => {
                     href="https://reactavancado.com.br"
                     target="_blank"
                   >  
-                  Veja nosso planejamento de módulos                  
+                    Veja o nosso planejamento        
                   </ALink>
 
               <Separator style={{ marginTop: 18 }} />
@@ -101,7 +101,7 @@ const HomePage = () => {
         </div>
       </Container>
     </>
-  );
+  );  
 };
 
 export default memo(HomePage);
